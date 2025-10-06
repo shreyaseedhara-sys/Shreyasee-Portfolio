@@ -124,7 +124,7 @@ const About = () => {
                 <span className="text-primary font-semibold">SQL</span>.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Currently working as a <span className="text-primary font-semibold">Power BI Intern at Adani Petrochemicals</span>, 
+                Worked as a <span className="text-primary font-semibold">Power BI Intern at Adani Petrochemicals</span>, 
                 where I develop comprehensive dashboards for Finance, Sales, Environment, and Telecom operations, 
                 enabling data-driven decision-making across the organization.
               </p>
