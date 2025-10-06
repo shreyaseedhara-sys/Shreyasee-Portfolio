@@ -57,7 +57,7 @@ const Navigation = () => {
               </button>
             ))}
             <a
-              href="src/assets/Shreyasee_Dhara_Resume-2.pdf"  // path to your resume
+              href="src\assets\Shreyasee_Dhara_Resume-2.pdf"  // path to your resume
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2 rounded-full bg-primary/10 text-primary border border-primary/30 hover:bg-primary/20 glow-box transition-all hover:scale-105"
